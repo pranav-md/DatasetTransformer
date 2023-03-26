@@ -1,4 +1,4 @@
-package schemas
+package sparkassessment.schemas
 
 import org.apache.spark.sql.types.{IntegerType, StructField, StructType}
 
